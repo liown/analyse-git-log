@@ -1,2 +1,2 @@
 # analyse-git-log
-just try
+just try me
